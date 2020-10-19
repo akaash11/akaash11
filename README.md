@@ -1,3 +1,11 @@
+<p align='center'>
+<!-- <a href="https://www.instagram.com/akaash_trivedi/"><img src="https://img.shields.io/badge/@akaash_trivedi%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp;&nbsp; -->
+<a href="https://twitter.com/akaasht"><img src="https://img.shields.io/badge/@akaasht%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/akaash-trivedi/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://join.skype.com/invite/YMxb6By5ku03"><img src="https://img.shields.io/badge/akaash.t1%20-%2300AFF0.svg?&style=for-the-badge&logo=Skype&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/akaash_trivedi"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+</p>
+
 ### Hi there 👋
 
 I'm Akaash Trivedi, a software developer from Pune, India. I worked with [@Opus consulting Pvt. Ltd.](https://www.opusconsulting.com/), former intern in R&D department of [@Tech Mahindra Innovation lab](https://www.techmahindra.com/en-in/innovation/makers-lab/).Some technologies I enjoy working with includes ReactJs, Python, Javascript.  When I am not developing, you can find me doing social work [@Science of spirituality](https://www.sos.org/), traveling or watching detective movies.
@@ -11,8 +19,6 @@ I'm Akaash Trivedi, a software developer from Pune, India. I worked with [@Opus 
 - 📝[Resume](https://drive.google.com/file/d/1Y6MoczJF4EYAtfqoWTV8cLGD62MSI3ym/view?usp=sharing)
 
 ## 🔧 Technologies & Tools
-<!-- <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img src="https://img.icons8.com/color/48/000000/python.png"/> -->
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=blue)
@@ -53,17 +59,3 @@ I'm Akaash Trivedi, a software developer from Pune, India. I worked with [@Opus 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akaash11&show_icons=true&hide=stars&line_height=32&count_private=true&theme=radical" alt="Akaash's GitHub Stats" />
 </a>
 
-<!--
-**akaash11/akaash11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
