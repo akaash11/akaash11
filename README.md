@@ -12,11 +12,11 @@ I'm Akaash Trivedi, a software developer from Pune, India. I worked with [@Opus 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on frontend of [Click to pay](https://www.emvco.com/emv_insights_post/introducing-the-click-to-pay-icon/) 😉;
+- 👨🏽‍💻 I’m currently pursing Masters in Computer Science at Santa clara Univerisity, CA;
 - 🌱 I’m currently learning GraphQL and TypeScript; 
-- 💬 Ask me about javascript, ReactJs, I am happy to help;
+- 💬 Ask me about javascript, ReactJs, Computer Networks I am happy to help;
 - 📫 Tweet me [@akaasht](https://twitter.com/akaasht);
-- 📝[Resume](https://drive.google.com/file/d/1Y6MoczJF4EYAtfqoWTV8cLGD62MSI3ym/view?usp=sharing)
+- 📝[Resume]([https://drive.google.com/file/d/1Y6MoczJF4EYAtfqoWTV8cLGD62MSI3ym/view?usp=sharing](https://drive.google.com/file/d/1Pa6Z-JNAp_LdSwAp_onIH1D2QEeqI89_/view?usp=sharing))
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript)
