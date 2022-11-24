@@ -8,7 +8,7 @@
 
 ### Hello 👋
 
-I'm Akaash Meghraj Trivedi, a software developer in Bay Area. I worked with [@Qualys Inc.](https://www.qualys.com/) as software developer,[@Opus consulting Pvt. Ltd.](https://www.opusconsulting.com/) as Associate Engineer, and former intern in R&D department of [@Tech Mahindra Innovation lab](https://www.techmahindra.com/en-in/innovation/makers-lab/). Some technologies I enjoy working with ReactJs, Javascript, Python.  When I am not developing, you can find me doing social work [@Science of spirituality](https://www.sos.org/), traveling and binging detective movies.
+I'm Akaash Meghraj Trivedi, a software developer in Bay Area. I worked with [@Qualys Inc.](https://www.qualys.com/) as software developer,[@Opus consulting Pvt. Ltd.](https://www.opusconsulting.com/) as Associate Engineer, and former intern in R&D department of [@Tech Mahindra Innovation lab](https://www.techmahindra.com/en-in/innovation/makers-lab/). Some technologies I enjoy working with include ReactJs, Javascript, Python.  When I am not developing, you can find me doing social work [@Science of spirituality](https://www.sos.org/), traveling and binging detective movies.
 
 **Talking about Personal Stuffs:**
 
