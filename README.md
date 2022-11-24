@@ -6,32 +6,36 @@
 <a href="https://www.hackerrank.com/akaash_trivedi"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
 
-### Hi there 👋
+### Hello 👋
 
-I'm Akaash Trivedi, a software developer from Pune, India. I worked with [@Opus consulting Pvt. Ltd.](https://www.opusconsulting.com/), former intern in R&D department of [@Tech Mahindra Innovation lab](https://www.techmahindra.com/en-in/innovation/makers-lab/).Some technologies I enjoy working with includes ReactJs, Python, Javascript.  When I am not developing, you can find me doing social work [@Science of spirituality](https://www.sos.org/), traveling or watching detective movies.
+I'm Akaash Meghraj Trivedi, a software developer in Bay Area. I worked with [@Qualys Inc.](https://www.qualys.com/) as software developer,[@Opus consulting Pvt. Ltd.](https://www.opusconsulting.com/) as Associate Engineer, and former intern in R&D department of [@Tech Mahindra Innovation lab](https://www.techmahindra.com/en-in/innovation/makers-lab/). Some technologies I enjoy working with ReactJs, Javascript, Python.  When I am not developing, you can find me doing social work [@Science of spirituality](https://www.sos.org/), traveling and binging detective movies.
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently pursing Masters in Computer Science at Santa clara Univerisity, CA;
-- 🌱 I’m currently learning GraphQL and TypeScript; 
+- 🌱 I’m currently learning Flutter; 
 - 💬 Ask me about javascript, ReactJs, Computer Networks I am happy to help;
 - 📫 Tweet me [@akaasht](https://twitter.com/akaasht);
-- 📝[Resume]([https://drive.google.com/file/d/1Y6MoczJF4EYAtfqoWTV8cLGD62MSI3ym/view?usp=sharing](https://drive.google.com/file/d/1Pa6Z-JNAp_LdSwAp_onIH1D2QEeqI89_/view?usp=sharing))
+- 📝 [Resume](https://drive.google.com/file/d/1Pa6Z-JNAp_LdSwAp_onIH1D2QEeqI89_/view?usp=sharing)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=blue)
+![](https://img.shields.io/badge/Code-c++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=blue)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&color=blue)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python)
 ![](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=pandas)
 ![](https://img.shields.io/badge/Library-Numpy-informational?style=flat&logo=numpy)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask)
 ![](https://img.shields.io/badge/Framework-django-informational?style=flat&logo=django)
 ![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android)
 
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=green)
+![](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=google-cloud&color=green)
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&color=green)
 ![](https://img.shields.io/badge/Cloud-Netlify-informational?style=flat&logo=netlify&color=green)
 
@@ -43,10 +47,12 @@ I'm Akaash Trivedi, a software developer from Pune, India. I worked with [@Opus 
 ![](https://img.shields.io/badge/VersionControl-GIT-informational?style=flat&logo=git&color=pink)
 ![](https://img.shields.io/badge/VersionControl-SVN-informational?style=flat&logo=subversion&color=pink)
 
-![](https://img.shields.io/badge/Tool-postman-informational?style=flat&logo=postman&color=yellow)
+![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=postman&color=yellow)
+![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=figma&color=yellow)
+![](https://img.shields.io/badge/Tool-Jira-informational?style=flat&logo=jira&color=yellow)
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=visual-studio-code&color=yellow)
 ![](https://img.shields.io/badge/Editor-jupyter-informational?style=flat&logo=jupyter&color=yellow)
-![](https://img.shields.io/badge/Editor-AndriodStudio-informational?style=flat&logo=android-studio&color=yellow)
+![](https://img.shields.io/badge/Editor-AndroidStudio-informational?style=flat&logo=android-studio&color=yellow)
 
 
 
