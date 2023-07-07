@@ -12,11 +12,12 @@ I'm Akaash Meghraj Trivedi, a software developer in Bay Area. I worked with [@Qu
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently pursing Masters in Computer Science at Santa clara Univerisity, CA;
-- 🌱 I’m currently learning Flutter; 
-- 💬 Ask me about javascript, ReactJs, Computer Networks I am happy to help;
+- 👨🏽‍💻 Software Development Intern [Marvell Technology](https://www.marvell.com);
+- 🧑🏼‍🎓 Pursing Masters in Computer Science & Engineering at Santa clara Univerisity, CA; 
+- 💯 GPA 4.0
+- 💬 Ask me about JavaScript, ReactJS, Computer Networks and Distributed Systems I am happy to help;
 - 📫 Tweet me [@akaasht](https://twitter.com/akaasht);
-- 📝 [Resume](https://drive.google.com/file/d/1Pa6Z-JNAp_LdSwAp_onIH1D2QEeqI89_/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1Urc-ZWsC01MLR78ah7qXqFkEksZ-qHHL/view?usp=sharing)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript)
