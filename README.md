@@ -1,8 +1,3 @@
-<p align='center'>
-<a href="https://www.linkedin.com/in/akaash-trivedi/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://akaasht.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://leetcode.com/u/akaashtrivedi/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
-</p>
 
 # 👋 Hi, I'm Akaash Trivedi  
 **Full‑Stack Engineer | 8+ years building distributed web systems | 2x Hackathon Winner**  
@@ -20,7 +15,13 @@ Building reliable software that makes a positive impact.
 - 🌍 Passionate about social work at [Science of Spirituality](https://www.sos.org/), traveling, and pickleball
 - 💬 Ask me about **JavaScript, TypeScript, React, Python, Django, Cloud Infrastructure, and Distributed Systems**
 - 📫 Reach me: [akaashtrivedi2@gmail.com](mailto:akaashtrivedi2@gmail.com)
-- 🌐 [Portfolio](https://akaasht.vercel.app)
+- 🌐 [Portfolio](https://akaash.app)
+
+<p align='center'>
+<a href="https://www.linkedin.com/in/akaash-trivedi/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://akaash.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/u/akaashtrivedi/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
+</p>
 
 ## 🚀 Featured Projects
 
