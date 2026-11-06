@@ -1,93 +1,71 @@
 
-# 👋 Hi, I'm Akaash Trivedi  
-**Full‑Stack Engineer | 8+ years building distributed web systems | 2x Hackathon Winner**  
-Building reliable software that makes a positive impact.
+# 👋 Hi, I'm Akaash Trivedi
+
+**Staff Software Engineer · Applied AI & Developer Experience · Marvell Technology**
+
+I build agentic systems, and the platforms and pipelines engineering teams run on, in regulated and security-sensitive environments. 8+ years across cybersecurity (Qualys), fintech (Opus), and semiconductors (Marvell).
+
+<p>
+<a href="https://akaash.app"><img src="https://img.shields.io/badge/Portfolio-akaash.app-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/akaash-trivedi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://leetcode.com/u/akaashtrivedi/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+</p>
 
 ---
 
-## About Me
+## What I'm working on
 
-- 💼 **Sr. Software Engineer** at [Marvell Technology](https://www.marvell.com), New York
-- 🎓 **MS in Computer Science & Engineering** from Santa Clara University (June 2024) - **GPA 4.0**
-- 💡 **8+ years of experience** at Qualys Inc., Opus Consulting Solutions, and Tech Mahindra
-- 🔧 Building scalable systems across enterprise software, cloud infrastructure, and HCI research
-- 🌱 Led HCI research and taught core CS courses at Santa Clara University
-- 🌍 Passionate about social work at [Science of Spirituality](https://www.sos.org/), traveling, and pickleball
-- 💬 Ask me about **JavaScript, TypeScript, React, Python, Django, Cloud Infrastructure, and Distributed Systems**
-- 📫 Reach me: [akaashtrivedi2@gmail.com](mailto:akaashtrivedi2@gmail.com)
-- 🌐 [Portfolio](https://akaash.app)
+- 🤖 **Agents at Marvell:** LiteLLM, LangChain, and LangGraph agents that carry out tasks on an internal engineering platform, with evals run on their output. Built a Glean agent that watches 15 Jenkins jobs and routes each failure to its owner.
+- 🛠️ **Developer platforms:** built the HSSLab platform from 0 to 1 (Django, Celery + Redis, 150+ active users across business units). Cut CI from 19h to 2h and delivery cycle from ~28 to 10 days. Top 1% contributor on Marvell's GitHub.
+- 🔐 **Private RAG Assistant:** a voice-first AI agent over my own notes, running on hardware I control. 76/76 outbound requests clean across 172 adversarial and replayed questions, 109/109 prompt-injection checks, MRR 0.83 to 0.88 after chunking changes.
+- ✍️ **Writing:** weekly on LinkedIn about AI security: prompt injection, agent hijacking, supply-chain attacks, and inference-server attack surface.
 
-<p align='center'>
-<a href="https://www.linkedin.com/in/akaash-trivedi/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://akaash.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://leetcode.com/u/akaashtrivedi/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
-</p>
+## Background
 
-## 🚀 Featured Projects
+- 🛡️ **Qualys:** SIEM threat detection and MITRE ATT&CK dashboards
+- 💳 **Opus:** Click-to-Pay at merchant checkout scale, Spring Boot payments microservices, ML risk models
+- 🎓 **MS in Computer Science & Engineering**, Santa Clara University (GPA 4.0). Led NSF-funded HCI research ([SMAR](https://smar-tool.org), $174,555 award) and taught core CS courses
+- 🎮 Shipped **[2248 Linko](https://playlinko.com)** solo on the App Store and Google Play (React Native, Expo, Supabase)
+- 🌍 Outside work: social work at [Science of Spirituality](https://www.sos.org/), traveling, and pickleball
 
-- **[SMAR](https://smar-tool.org)** — HCI research tool backed by $174,555 NSF award
-- **[Eatopia](https://devpost.com/software/eatopia)** — AI‑powered meal planner (React Native + TypeScript)
-- **[Lets not wait!](https://devpost.com/software/lets-not-wait)** — Smart wait‑time optimization (Django + React)
+## Tech
 
-## 🔧 Technologies & Tools
+**AI:**
+![](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![](https://img.shields.io/badge/LiteLLM-informational?style=flat&color=blue)
+![](https://img.shields.io/badge/MCP-informational?style=flat&color=blue)
+![](https://img.shields.io/badge/RAG_%2B_Evals-informational?style=flat&color=blue)
+![](https://img.shields.io/badge/Whisper-informational?style=flat&color=blue)
 
-**Languages & Frontend:**
+**Languages & frameworks:**
+![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=blue)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=blue)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=blue)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&color=blue)
+**Data & infrastructure:**
+![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-**Frameworks & Libraries:**
+**CI/CD & tools:**
+![](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![](https://img.shields.io/badge/Glean-informational?style=flat&color=blue)
 
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Framework-Redux-informational?style=flat&logo=redux&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node.js&color=blue)
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&color=blue)
-![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&color=blue)
-![](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=spring-boot&color=blue)
-![](https://img.shields.io/badge/UI-Material_UI-informational?style=flat&logo=mui&logoColor=white&color=blue)
-![](https://img.shields.io/badge/UI-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=pandas&color=blue)
-![](https://img.shields.io/badge/Library-NumPy-informational?style=flat&logo=numpy&color=blue)
+---
 
-**Databases & Caching:**
-
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=green)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=green)
-![](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&color=green)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=green)
-![](https://img.shields.io/badge/Database-Elasticsearch-informational?style=flat&logo=elasticsearch&color=green)
-
-**Cloud & DevOps:**
-
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=orange)
-![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&color=orange)
-![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&color=orange)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&color=orange)
-![](https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&logo=kubernetes&color=orange)
-![](https://img.shields.io/badge/CI/CD-GitHub_Actions-informational?style=flat&logo=github-actions&color=orange)
-![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&color=orange)
-
-**APIs & Tools:**
-
-![](https://img.shields.io/badge/API-GraphQL-informational?style=flat&logo=graphql&color=purple)
-![](https://img.shields.io/badge/API-REST-informational?style=flat&logo=fastapi&color=purple)
-![](https://img.shields.io/badge/Queue-Celery-informational?style=flat&logo=celery&color=purple)
-![](https://img.shields.io/badge/Server-Nginx-informational?style=flat&logo=nginx&color=purple)
-![](https://img.shields.io/badge/Server-Apache-informational?style=flat&logo=apache&color=purple)
-
-**Development Tools:**
-
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&color=red)
-![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=postman&color=red)
-![](https://img.shields.io/badge/Tool-Jira-informational?style=flat&logo=jira&color=red)
-![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=figma&color=red)
-![](https://img.shields.io/badge/Tool-SonarQube-informational?style=flat&logo=sonarqube&color=red)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&color=red)
-![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=jupyter&color=red)
-
-
+📫 [akaashtrivedi2@gmail.com](mailto:akaashtrivedi2@gmail.com) · 🌐 [akaash.app](https://akaash.app)
